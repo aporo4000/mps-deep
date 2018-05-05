@@ -21,6 +21,8 @@ Only numpy is used to implement.
 
 * Export/Import network structure to/from JSON.
 
+* update(2018/5)
+
 # License
 
 The MIT License (MIT)
